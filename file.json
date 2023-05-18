@@ -1,0 +1,22 @@
+{
+    "amountTransaction": {
+        "clientCorrelator": "12345",
+        "endUserId": "tel:+94772219888",
+        "paymentAmount": {
+            "chargingInformation": {
+                "amount": "1",
+                "currency": "LKR",
+                "description": "Test Charge"
+            },
+            "chargingMetaData": {
+                "onBehalfOf": "IdeaBiz Test",
+                "purchaseCategoryCode": "v4",
+                "channel": "WAP",
+                "taxAmount": "0",
+                "serviceID": "373036c3d1a2455db65cddb3cb64a05c"
+            }  
+        },
+        "referenceCode": "REF-12345",
+        "transactionOperationStatus": "Charged"
+    }
+}
